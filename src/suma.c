@@ -18,5 +18,5 @@ int main ()
 	printf("ingrese  valor entero:\n");
 	scanf("%d",&valor2);
 	printf("el resultado de la suma es: %d \n",valor1+valor2);
-	return 1;
+	return 0;
 }
